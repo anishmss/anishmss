@@ -1,6 +1,6 @@
 ## Hi !
 
-I am a biological computerologist working on problems in computational biology. 
+I am a biological machine using computational machines to learn about biological machines. 
 
 I head the [Bioinformatics Lab at De La Salle University Manila](http://www.bioinfodlsu.com).
 
